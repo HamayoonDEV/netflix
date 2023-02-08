@@ -1,0 +1,32 @@
+
+.navbar{
+    background-color: black;
+    width: 100%;
+    height: 70px;
+    display: flex;
+    padding-top: 20px;
+    position: fixed;
+
+}
+.img-logo img{
+    height: 50px;
+    width: 100px;
+}
+
+.nav-ul ul{
+    display: flex;
+    list-style-type: none;
+   
+}
+.nav-ul ul li{
+    margin: 0 10px;
+    color: white;
+    font-weight: 200;
+}
+.search-logout {
+    margin-top: 20px;
+    margin-left: 50rem;
+}
+.search-logout span{
+    margin-right: 30px;
+}

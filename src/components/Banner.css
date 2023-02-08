@@ -1,0 +1,47 @@
+.banner{
+    background-color: black;
+    width: 100%;
+    margin: 0;
+}
+.background-img{
+    width: 100%;
+    object-fit: contain;
+    
+}
+.background-img img{
+    background-position: center;
+    background-size: cover;
+    height: 448px;
+    position: relative;
+    object-fit: contain;
+    color: white;
+
+
+}
+.button{
+    margin-left: 14rem;
+    
+
+}
+.button .btn1{
+    color: black;
+    background-color:white;
+    border: none;
+    cursor: pointer;
+    margin-right: 1rem;
+    padding: 10px 30px;
+    font-size: 14px;
+    font-weight: 600;
+
+}
+.button .btn2{
+    color: white;
+    background-color:rgba(0,0,0,0.8);
+    border: none;
+    cursor: pointer;
+    margin-right: 1rem;
+    padding: 10px 30px;
+    font-size: 14px;
+    font-weight: 600;
+
+}
